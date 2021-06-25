@@ -1,2 +1,1 @@
 # template repository for reproschema
-
