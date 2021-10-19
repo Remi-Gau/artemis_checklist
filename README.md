@@ -1,7 +1,9 @@
-# checklist to evaluate re-executability of neuroimaging studies
+# ARTEMIS readme
 
-Based on:
+<!-- comment: landing page for ARTEMIS app -->
 
-> Hodge SM, Haselgrove C, Honor L et al. An assessment of the autism neuroimaging literature for the prospects of re-executability
-> [version 2; peer review: 2 approved].
-> F1000Research 2021, 9:1031 (https://doi.org/10.12688/f1000research.25306.2)
+<center>
+
+![](https://raw.githubusercontent.com/ohbm/eCOBIDAS/master/images/ARTEMIS_logo.jpg)
+
+</center>
