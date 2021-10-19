@@ -9,4 +9,3 @@
 </center>
 
 ## Agreed Reporting Template for EEG Methodology - International Standard: template for event-related potentials (ERP)
-
