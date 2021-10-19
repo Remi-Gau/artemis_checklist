@@ -44,7 +44,7 @@ Want to know more? Have any questions? Something is missing? Send us an [email](
 
 For occasional updates on the project, join our [mailing list](mailto:artemis_wg@incf.org).
 
-## Want to help? 
+## Want to help?
 
 If you want to join this project, please check out our [INCF Working Group](https://www.incf.org/sig/incf-working-group-artem) and apply for joining it by filling in this [form](https://forms.gle/QHFakdGUQ69QrCYc9).
 
