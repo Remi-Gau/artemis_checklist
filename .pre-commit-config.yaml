@@ -1,10 +1,12 @@
-# See https://pre-commit.com for more information
-# See https://pre-commit.com/hooks.html for more hooks
 repos:
--   repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v6.0.0
-    hooks:
-    -   id: trailing-whitespace
-    -   id: check-yaml
-    -   id: check-added-large-files
-    -   id: end-of-file-fixer
+- repo: https://github.com/pre-commit/pre-commit-hooks
+  rev: v6.0.0
+  hooks:
+  - id: trailing-whitespace
+  - id: check-yaml
+  - id: check-added-large-files
+  - id: end-of-file-fixer
+ci:
+  autoupdate_commit_msg: 'chore: update pre-commit hooks'
+  autoupdate_schedule: monthly
+  autofix_commit_msg: 'style: pre-commit fixes'
